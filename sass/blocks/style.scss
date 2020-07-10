@@ -1,0 +1,30 @@
+@import "variables";
+@import "header";
+@import "decision";
+@import "titles";
+@import "secure";
+@import "tutorial";
+@import "views";
+@import "carousel";
+@import "start";
+@import "minimal";
+@import "license";
+@import "custom";
+@import "connect";
+@import "footer";
+@import "media";
+*{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container__header{
+    width: 1180px;
+    margin: 0 auto;
+}
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
